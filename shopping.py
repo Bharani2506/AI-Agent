@@ -71,7 +71,7 @@ Search for the **FC Barcelona Official Store** on Google, select the first relev
 """
 
 browser = Browser()
-api_key_gemini = SecretStr(os.getenv('GEMINI_API_KEY') or 'AIzaSyDeTs_3-UJsK9bXsJOk5VWUbqvw_Dn7Iuo')
+api_key_gemini = SecretStr(os.getenv('GEMINI_API_KEY') or 'your_api_key')
 
 agent = Agent(
    task=task,
