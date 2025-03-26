@@ -54,7 +54,7 @@ Huge thanks to [Gregor Zunic](https://x.com/gregpr07) & [Magnus Müller](https:/
 - 💳 Simulate secure payment process (without actual transactions!)
 
 ## Contributors
-👨‍💻 **Praveen** – [LinkedIn](https://linkedin.com/in/praveen)  
+👨‍💻 **Praveen** – [LinkedIn](https://www.linkedin.com/in/praveensubramani88/)  
 
 ## License
 This project is open-source and available under the **MIT License**.
